@@ -946,9 +946,9 @@ MonoBehaviour:
   player: {fileID: 211237210}
   introMessage: "Ative o protoc\xF3lo para come\xE7ar."
   startMessage: Encontre a cor indicada.
-  correctMessage: "Painel correto! Pr\xF3ximo sinal liberado."
-  wrongMessage: Cor errada!
-  winMessage: Cor certa!
+  correctMessage: Cor certa!
+  wrongMessage: Painel incorreto. Reator em sobrecarga!
+  winMessage: "Reator desligado. Esta\xE7\xE3o salva!"
   timeoutMessage: Tempo esgotado. Reator em sobrecarga!
 --- !u!114 &459223004
 MonoBehaviour:
